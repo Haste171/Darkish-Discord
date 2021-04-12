@@ -6,15 +6,15 @@
     --activity-card-background: var(--background-tertiary) !important;
     --background-accent: #292929 !important;
     --background-accent-alt: #242424 !important;
-    --background-floating: #181616 !important;
+    --background-floating: #201e1e !important;
     --background-modifier-accent: hsla(0, 0%, 100%, 0.06) !important;
     --background-modifier-active: rgba(255, 255, 255, 0.03) !important;
     --background-modifier-hover: rgba(255, 255, 255, 0.02) !important;
     --background-modifier-selected: rgba(255, 255, 255, 0.04) !important;
     --background-primary: #272424 !important;
     --background-secondary: rgb(31, 28, 28) !important;
-    --background-secondary-alt: #0e0e0e !important;
-    --background-tertiary: #0c0c0c !important;
+    --background-secondary-alt: #221f1f !important;
+    --background-tertiary: #222020 !important;
     --channels-default: var(--text-muted) !important;
     --channeltextarea-background: #202020 !important;
     --deprecated-card-bg: var(--background-secondary) !important;
@@ -22,10 +22,10 @@
     --deprecated-quickswitcher-input-background: var(--background-primary) !important;
     --deprecated-quickswitcher-input-placeholder: var(--interactive-muted) !important;
     --deprecated-store-bg: var(--background-primary) !important;
-    --deprecated-text-input-bg: rgba(0, 0, 0, 0.1) !important;
-    --deprecated-text-input-border: rgba(0, 0, 0, 0.3) !important;
-    --deprecated-text-input-border-disabled: rgba(0, 0, 0, 0.1) !important;
-    --deprecated-text-input-border-hover: rgba(0, 0, 0, 0.7) !important;
+    --deprecated-text-input-bg: rgba(20, 19, 19, 0.1) !important;
+    --deprecated-text-input-border: rgba(20, 19, 19, 0.3) !important;
+    --deprecated-text-input-border-disabled: rgba(26, 24, 24, 0.1) !important;
+    --deprecated-text-input-border-hover: rgba(34, 31, 31, 0.7) !important;
     --header-primary: var(--text-normal) !important;
     --header-secondary: var(--text-muted) !important;
     --interactive-active: #fff !important;
@@ -42,7 +42,7 @@
     --text-normal: #fbfbfb !important;
     --toast-background: var(--background-secondary) !important;
     --toast-border: transparent !important;
-    --toast-box-shadow: rgba(0, 0, 0, .1) !important;
+    --toast-box-shadow: rgba(27, 25, 25, 0.1) !important;
     --toast-contents: var(--background-tertiary) !important;
     --toast-header: var(--background-tertiary) !important;
 }
